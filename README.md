@@ -1,5 +1,7 @@
 # time-cat
 
+[![NPM](https://nodei.co/npm/time-cat.png?downloads=true&stars=true)](https://nodei.co/npm/time-cat/)
+
 ### Install
 
     npm install -g time-cat
